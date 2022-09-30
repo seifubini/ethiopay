@@ -1,0 +1,60 @@
+@mixin transition {
+    transition: all 0.3s linear 0s !important;
+    -webkit-transition: all 0.3s linear 0s !important;
+    -moz-transition: all 0.3s linear 0s !important;
+    -o-transition: all 0.3s linear 0 !important;
+}
+
+@mixin before_after {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    content: "";
+}
+
+@mixin text_hidden {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+@mixin btn-default {
+    background: $green;
+    border-color: $green;
+    color: $white;
+    text-transform: uppercase;
+    @include transition;
+    &:hover {
+        background: transparent;
+        border-color: $green;
+        color: $green;
+    }
+}
+
+@mixin btn-primary {
+    background: $primary;
+    border-color: $primary;
+    color: $white;
+    text-transform: uppercase;
+    @include transition;
+    &:hover {
+        background: #017638;
+        border-color: $primary;
+        color: $white;
+    }
+}
+
+@mixin btn-outline {
+    background: transparent;
+    border-color: $primary;
+    color: $primary;
+    text-transform: uppercase;
+    border-radius: 3px;
+    @include transition;
+    &:hover {
+        background: $primary;
+        border-color: $primary;
+        color: $white;
+    }
+}

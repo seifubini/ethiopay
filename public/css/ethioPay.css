@@ -1,0 +1,18 @@
+.disableClick{
+    pointer-events: none;
+    color: #e1e1e1 !important;
+}
+
+.responsive_table {
+    overflow-x: auto;
+}
+
+#transactionCardImage {
+    height: 35px;
+}
+
+.ticketblk .comments {
+    margin: 40px 0;
+    max-height: 500px;
+    overflow-y: auto;
+}

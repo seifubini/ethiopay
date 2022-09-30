@@ -1,0 +1,50 @@
+<?php
+
+namespace DummyNamespace;
+use DummyRootNamespaceModels\DummyClass;
+
+class DummyClassObserver {
+
+    
+    public function creating(DummyClass $DummyClass) {
+        
+    }
+    
+    public function created(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function updating(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function updated(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function saving(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function saved(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function deleting(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function deleted(DummyClass $DummyClass) {
+        //
+    }
+    
+    public function restoring(DummyClass $DummyClass) {
+        //
+    }
+
+    public function restored(DummyClass $DummyClass) {
+        //
+    }
+
+}
+

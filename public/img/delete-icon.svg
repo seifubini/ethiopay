@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Oval-3-Copy-6" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-7.000000, -7.000000)">
+        <g id="Group">
+            <circle id="Oval-3-Copy-6" stroke="#FF1D45" fill="#FFFFFF" transform="translate(27.000000, 27.000000) rotate(-315.000000) translate(-27.000000, -27.000000) " cx="27" cy="27" r="19"></circle>
+            <polygon id="+-copy" fill="#FF1D45" transform="translate(27.259000, 27.340000) rotate(-315.000000) translate(-27.259000, -27.340000) " points="38.518 28.906 28.744 28.906 28.744 38.68 25.828 38.68 25.828 28.906 16 28.906 16 25.774 25.828 25.774 25.828 16 28.744 16 28.744 25.774 38.518 25.774"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,5 @@
+service_type_id,uid,debtor_firstname,debtor_lastname,debtor_city,amount,cut_off_date
+1,"UID-1","Milan","Katariya-1","Rajkot","120","2017-03-07"
+2,"UID-2","Kajal","Logistic","Rajkot","150","2017-03-25"
+3,"UID-3","Milan2","Katariya2","Gondal","250","2017-04-13"
+5,"UID-ElectricityBills-2","Milan4","Katariya4","Gondal","250","2017-04-13"
